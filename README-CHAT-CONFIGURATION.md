@@ -18,7 +18,7 @@ OPENAI_ASSISTANT_ID=your_assistant_id
 
 # For regular API
 OPENAI_MODEL=gpt-4o
-SYSTEM_PROMPT="You are a helpful AI assistant for ZettaBase, a company that specializes in AI solutions for businesses. Answer questions concisely and professionally."
+SYSTEM_PROMPT="You are a helpful AI assistant for CogniBase, a company that specializes in AI solutions for businesses. Answer questions concisely and professionally."
 ```
 
 ## API Selection

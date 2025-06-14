@@ -16,8 +16,8 @@ export default function Footer() {
           {/* Logo and description */}
           <div className="md:w-1/3">
             <div className="flex items-center gap-2 mb-4">
-              <Image src="/logo_transparent.png" alt="ZettaBase Logo" width={40} height={40} className="h-10 w-auto" />
-              <span className="text-[#0078FF] text-xl font-semibold">ZettaBase</span>
+              <Image src="/logo_transparent.png" alt="CogniBase Logo" width={40} height={40} className="h-10 w-auto" />
+              <span className="text-[#0078FF] text-xl font-semibold">CogniBase</span>
             </div>
             <p className="text-slate-400 mb-6 max-w-md">
               {t('footer.companyDescription')}

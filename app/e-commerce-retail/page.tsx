@@ -280,7 +280,7 @@ export default function ECommerceRetailPage() {
         </div>
       </section>
 
-      {/* Why ZettaBase Section */}
+      {/* Why CogniBase Section */}
       <IndustryBenefits title={t('common.whyUs.title')} />
 
       {/* CTA Section */}

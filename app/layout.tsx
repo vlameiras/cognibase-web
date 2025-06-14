@@ -26,7 +26,7 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "ZettaBase | Reinvent Your Business with AI",
+  title: "CogniBase | Reinvent Your Business with AI",
   description: "We deliver AI solutions that help businesses automate processes, gain insights, and scale operations efficiently.",
 };
 

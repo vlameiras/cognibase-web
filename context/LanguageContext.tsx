@@ -14,48 +14,48 @@ type LanguageContextType = {
 export const translations = {
   en: {
     // Site Metadata
-    'site.title': 'ZettaBase | Reinvent Your Business with Knowledge-Powered AI',
-    'site.description': 'Transform your business with ZettaBase AI solutions that leverage your organization\'s knowledge to automate processes, gain insights, and deliver exceptional customer experiences.',
-    'seo.landing.description': 'Transform your business with ZettaBase AI solutions that leverage your organization\'s knowledge to automate processes, gain insights, and deliver exceptional customer experiences.',
+    'site.title': 'CogniBase | Reinvent Your Business with Knowledge-Powered AI',
+    'site.description': 'Transform your business with CogniBase AI solutions that leverage your organization\'s knowledge to automate processes, gain insights, and deliver exceptional customer experiences.',
+    'seo.landing.description': 'Transform your business with CogniBase AI solutions that leverage your organization\'s knowledge to automate processes, gain insights, and deliver exceptional customer experiences.',
     
     // Industry Pages SEO Metadata
     // Healthcare
-    'seo.healthcare.title': 'Healthcare | ZettaBase',
+    'seo.healthcare.title': 'Healthcare | CogniBase',
     'seo.healthcare.description': 'AI solutions for healthcare that improve patient care, streamline operations, and enhance data security.',
     'seo.healthcare.keywords': 'healthcare AI, medical AI solutions, patient care AI, healthcare automation, medical data security',
     
     // Finance
-    'seo.finance.title': 'Finance | ZettaBase',
+    'seo.finance.title': 'Finance | CogniBase',
     'seo.finance.description': 'AI solutions for financial services that improve customer experience, streamline operations, and enhance data security.',
     'seo.finance.keywords': 'finance AI, banking AI solutions, financial services automation, financial data security, AI for finance',
     
     // Insurance
-    'seo.insurance.title': 'Insurance | ZettaBase',
+    'seo.insurance.title': 'Insurance | CogniBase',
     'seo.insurance.description': 'AI solutions for insurance that improve customer experience, streamline operations, and enhance data security.',
     'seo.insurance.keywords': 'insurance AI, AI for insurance, claims processing automation, insurance data security, AI underwriting',
     
     // Legal
-    'seo.legal.title': 'Legal | ZettaBase',
+    'seo.legal.title': 'Legal | CogniBase',
     'seo.legal.description': 'AI solutions for legal services that improve client experience, streamline operations, and enhance data security.',
     'seo.legal.keywords': 'legal AI, AI for law firms, legal document automation, legal data security, AI legal research',
     
     // Real Estate
-    'seo.real-estate.title': 'Real Estate | ZettaBase',
+    'seo.real-estate.title': 'Real Estate | CogniBase',
     'seo.real-estate.description': 'AI solutions for real estate that improve client experience, streamline operations, and enhance data security.',
     'seo.real-estate.keywords': 'real estate AI, property management AI, real estate automation, property data security, AI for realtors',
     
     // E-Commerce & Retail
-    'seo.e-commerce-retail.title': 'E-Commerce & Retail | ZettaBase',
+    'seo.e-commerce-retail.title': 'E-Commerce & Retail | CogniBase',
     'seo.e-commerce-retail.description': 'AI solutions for e-commerce and retail that improve customer experience, streamline operations, and enhance data security.',
     'seo.e-commerce-retail.keywords': 'e-commerce AI, retail AI solutions, customer experience AI, retail automation, e-commerce data security',
     
     // Public Administration
-    'seo.public-administration.title': 'Public Administration | ZettaBase',
+    'seo.public-administration.title': 'Public Administration | CogniBase',
     'seo.public-administration.description': 'AI solutions for public administration that improve citizen services, streamline operations, and enhance data security.',
     'seo.public-administration.keywords': 'government AI, public sector AI, citizen services automation, government data security, AI for public administration',
     
     // Common Industry Benefits
-    'common.whyUs.title': 'Why Choose ZettaBase?',
+    'common.whyUs.title': 'Why Choose CogniBase?',
     'common.whyUs.item1': '<strong>Custom‑Trained Intelligence</strong> - 95%+ accurate answers because the AI is trained on your own documents, rules and terminology.',
     'common.whyUs.item2': '<strong>Enterprise‑Grade Security & Compliance</strong> - Strong encryption, strict access controls and private deployment options ensure your information stays private.',
     'common.whyUs.item3': '<strong>Fast Integrations</strong> - Connect with your favorite tools and platforms faster.',
@@ -63,13 +63,13 @@ export const translations = {
     
     // Chat Widget
     'chat.welcome': 'Hi, there! How can I assist you today?',
-    'chatwidget.welcome': 'Hello! How can I help you with ZettaBase services?',
+    'chatwidget.welcome': 'Hello! How can I help you with CogniBase services?',
     'chat.placeholder': 'Type your message...',
-    'chat.assistant': 'ZettaBase Assistant',
+    'chat.assistant': 'CogniBase Assistant',
     'chat.online': 'Online',
     'chat.services': 'We offer a wide range of services including AI integration, chatbot development, and knowledge base solutions.',
     'chat.pricing': 'Our pricing varies based on your specific needs. Would you like to speak with a sales representative?',
-    'chat.contact': 'You can reach our team at hello@zettabase.com or call us at (555) 123-4567.',
+    'chat.contact': 'You can reach our team at hello@cognibase.com or call us at (555) 123-4567.',
     'chat.default': 'Thanks for your message! Is there anything specific about our AI solutions you would like to know?',
     'chat.assistantTitle': 'Website Assistant',
     'chat.servicesQuestion': 'What services do you offer?',
@@ -93,7 +93,7 @@ export const translations = {
     'chat.integrations.description': 'Connect with your favorite tools and platforms for enhanced productivity.',
     'chat.integrations.comingSoon': 'More coming soon',
     // Navigation
-    'nav.why': 'Why ZettaBase',
+    'nav.why': 'Why CogniBase',
     'nav.about': 'About Us',
     'nav.products': 'Our Products',
     'nav.consulting': 'Custom Solutions',
@@ -104,7 +104,7 @@ export const translations = {
     'hero.title': 'Transform Business Knowledge',
     'hero.titleHighlight': 'into Intelligent Action',
     'hero.subtitle': 'The AI platform that learns your business context',
-    'hero.description': 'Unlock the full potential of your business data with ZettaBase\'s AI solutions that turn your knowledge into actionable intelligence and seamless customer experiences.',
+    'hero.description': 'Unlock the full potential of your business data with CogniBase\'s AI solutions that turn your knowledge into actionable intelligence and seamless customer experiences.',
     'hero.feature1': 'Eliminate repetitive support requests',
     'hero.feature2': 'Free employees to focus on high-value tasks',
     'hero.feature3': 'Easily integrates with your existing systems',
@@ -113,11 +113,11 @@ export const translations = {
     'hero.ctaPrimary': 'Get Started',
     'hero.ctaSecondary': 'Learn More',
     
-    // Why ZettaBase Section
+    // Why CogniBase Section
     'why.eyebrow': 'Our Difference',
-    'why.title': 'Why ZettaBase',
+    'why.title': 'Why CogniBase',
     'why.subtitle': 'What makes us different',
-    'why.description': 'Unlike generic AI solutions, ZettaBase Platform understands your specific business context, terminology, and processes.',
+    'why.description': 'Unlike generic AI solutions, CogniBase Platform understands your specific business context, terminology, and processes.',
     'why.feature1.title': 'Unified Knowledge Base',
     'why.feature1.description': 'We collect and integrate data from your diverse sources to build a comprehensive, searchable knowledge base.',
     'why.feature1.tooltip': 'AI that understands the specific meaning and relationships within your business data, not just keywords.',
@@ -127,29 +127,29 @@ export const translations = {
     'why.feature3.title': 'Enterprise Security',
     'why.feature3.description': 'Strong encryption and comprehensive privacy controls keep your sensitive business data protected.',
     'why.feature3.tooltip': 'Advanced encryption and security protocols designed to safeguard your business information and maintain data integrity.',
-    'why.comparison.title': 'ZettaBase vs. Generic AI',
-    'why.comparison.zettabase': 'ZettaBase',
+    'why.comparison.title': 'CogniBase vs. Generic AI',
+    'why.comparison.cognibase': 'CogniBase',
     'why.comparison.generic': 'Generic AI',
     'why.comparison.row1.title': 'Knowledge Source',
     'why.comparison.row1.tooltip': 'The origin of the data that powers the AI system.',
-    'why.comparison.row1.zettabase': 'Your specific business data and documents',
+    'why.comparison.row1.cognibase': 'Your specific business data and documents',
     'why.comparison.row1.generic': 'General internet data',
     'why.comparison.row2.title': 'Context Understanding',
     'why.comparison.row2.tooltip': 'How well the AI comprehends the specific meaning and relationships in your business domain.',
-    'why.comparison.row2.zettabase': 'Deep understanding of your business context',
+    'why.comparison.row2.cognibase': 'Deep understanding of your business context',
     'why.comparison.row2.generic': 'Limited context awareness',
     'why.comparison.row3.title': 'Accuracy',
     'why.comparison.row3.tooltip': 'The percentage of queries that receive correct and relevant responses.',
-    'why.comparison.row3.zettabase': '95%+ accuracy for domain-specific queries',
+    'why.comparison.row3.cognibase': '95%+ accuracy for domain-specific queries',
     'why.comparison.row3.generic': 'Variable accuracy, especially for specialized topics',
     'why.comparison.row4.title': 'Security',
     'why.comparison.row4.tooltip': 'How your data is protected and whether it is used for purposes beyond your specific needs.',
-    'why.comparison.row4.zettabase': 'Enterprise-grade security and data privacy',
+    'why.comparison.row4.cognibase': 'Enterprise-grade security and data privacy',
     'why.comparison.row4.generic': 'Often uses data for model training',
     
     // About Section
     'about.title': 'About Us',
-    'about.description': 'At ZettaBase, we empower businesses with innovative AI solutions. From enhancing internal workflows to engaging website visitors and delivering bespoke AI implementations, our expert team leverages custom knowledge bases to drive efficiency, engagement, and growth.',
+    'about.description': 'At CogniBase, we empower businesses with innovative AI solutions. From enhancing internal workflows to engaging website visitors and delivering bespoke AI implementations, our expert team leverages custom knowledge bases to drive efficiency, engagement, and growth.',
     'about.experience': 'Industry Experience',
     'about.experienceDesc': 'Our team brings expertise in innovative solution implementation across diverse industries.',
     'about.innovation': 'Innovation Focus',
@@ -222,8 +222,8 @@ export const translations = {
     'kb.internal.point2': 'Reduce onboarding time by 40% with contextual information retrieval',
     'kb.internal.point3': 'Enhanced security with role-based access controls and audit logs',
     'kb.internal.point4': 'Connect to internal systems like Confluence, SharePoint, and custom wikis',
-    'kb.header': 'ZettaBase Knowledge Base',
-    'kb.poweredBy': 'Powered by ZettaBase',
+    'kb.header': 'CogniBase Knowledge Base',
+    'kb.poweredBy': 'Powered by CogniBase',
     'kb.loading': 'Loading chat interface...',
     'kb.publicMode': 'Public Mode',
     'kb.privateMode': 'Private Mode',
@@ -400,9 +400,9 @@ export const translations = {
     'insurance.hero.demo': 'Request a Demo',
     'insurance.hero.talk': 'Talk to a Specialist',
     'insurance.overview.title': 'Overview',
-    'insurance.overview.description': 'Insurance companies face unique challenges with claims processing, risk assessment, and customer service. ZettaBase AI solutions help insurance providers streamline operations, reduce fraud, and improve customer satisfaction through intelligent systems that understand insurance terminology, policy details, and customer needs.',
+    'insurance.overview.description': 'Insurance companies face unique challenges with claims processing, risk assessment, and customer service. CogniBase AI solutions help insurance providers streamline operations, reduce fraud, and improve customer satisfaction through intelligent systems that understand insurance terminology, policy details, and customer needs.',
     'insurance.nextStep.title': 'Ready to transform insurance with AI?',
-    'insurance.nextStep.description': 'Let\'s discuss how ZettaBase can help your insurance company improve claims processing and customer experience.',
+    'insurance.nextStep.description': 'Let\'s discuss how CogniBase can help your insurance company improve claims processing and customer experience.',
     'insurance.nextStep.demo': 'Request a Demo',
     'insurance.nextStep.talk': 'Talk to a Specialist',
     'insurance.useCases.title': 'Insurance Use Cases',
@@ -453,9 +453,9 @@ export const translations = {
     'legal.hero.demo': 'Request a Demo',
     'legal.hero.talk': 'Talk to a Specialist',
     'legal.overview.title': 'Overview',
-    'legal.overview.description': 'Legal professionals face unique challenges with document review, legal research, and client communication. ZettaBase AI solutions help law firms and legal departments streamline operations, improve accuracy, and enhance client service through intelligent systems that understand legal terminology, precedents, and regulatory requirements.',
+    'legal.overview.description': 'Legal professionals face unique challenges with document review, legal research, and client communication. CogniBase AI solutions help law firms and legal departments streamline operations, improve accuracy, and enhance client service through intelligent systems that understand legal terminology, precedents, and regulatory requirements.',
     'legal.nextStep.title': 'Ready to transform legal & professional services with AI?',
-    'legal.nextStep.description': 'Let\'s discuss how ZettaBase can help your team improve efficiency and client service.',
+    'legal.nextStep.description': 'Let\'s discuss how CogniBase can help your team improve efficiency and client service.',
     'legal.nextStep.demo': 'Request a Demo',
     'legal.nextStep.talk': 'Talk to a Specialist',
     'legal.useCases.title': 'Legal & Professional Services Use Cases',
@@ -503,9 +503,9 @@ export const translations = {
     'realEstate.title': 'AI for Real Estate',
     'realEstate.hero.subtitle': 'Enhance property management, streamline transactions, and improve client experience with AI solutions tailored for real estate professionals.',
     'realEstate.overview.title': 'Overview',
-    'realEstate.overview.description': 'Real estate professionals face unique challenges with property management, client communication, and transaction processing. ZettaBase AI solutions help real estate agencies, property managers, and developers streamline operations, improve client satisfaction, and enhance decision-making through intelligent systems that understand property data, market trends, and client needs.',
+    'realEstate.overview.description': 'Real estate professionals face unique challenges with property management, client communication, and transaction processing. CogniBase AI solutions help real estate agencies, property managers, and developers streamline operations, improve client satisfaction, and enhance decision-making through intelligent systems that understand property data, market trends, and client needs.',
     'realEstate.cta.title': 'Ready to transform real estate with AI?',
-    'realEstate.cta.description': 'Let\'s discuss how ZettaBase can help your real estate business improve client experience and operational efficiency.',
+    'realEstate.cta.description': 'Let\'s discuss how CogniBase can help your real estate business improve client experience and operational efficiency.',
     'realEstate.useCases.title': 'Real Estate Use Cases',
     'realEstate.useCases.subtitle': 'Examples of AI-powered solutions to transform and modernize real estate operations',
     'realEstate.useCases.case1.title': 'Property Matching Assistant',
@@ -555,7 +555,7 @@ export const translations = {
     'ecommerce.hero.title': 'AI for E-Commerce & Retail',
     'ecommerce.hero.subtitle': 'Turn clicks into loyal customers with AI that knows your catalog and operations.',
     'ecommerce.overview.title': 'Overview',
-    'ecommerce.overview.description': 'Artificial intelligence is no longer a futuristic promise: 84% of online stores already place it at the top of their priorities, and the AI market for e-commerce is expected to exceed €40 billion by 2032. By unifying catalog, inventory, marketing, and support data, ZettaBase automates end-to-end processes, enhancing the shopper experience, reducing operational costs, and boosting margins in a constantly changing sector.',
+    'ecommerce.overview.description': 'Artificial intelligence is no longer a futuristic promise: 84% of online stores already place it at the top of their priorities, and the AI market for e-commerce is expected to exceed €40 billion by 2032. By unifying catalog, inventory, marketing, and support data, CogniBase automates end-to-end processes, enhancing the shopper experience, reducing operational costs, and boosting margins in a constantly changing sector.',
     'ecommerce.useCases.title': 'Use Cases',
     'ecommerce.useCases.subtitle': 'Examples of AI-powered solutions to transform and modernize retail operations',
     'ecommerce.useCases.case1.title': '24/7 Shopping Assistant',
@@ -594,7 +594,7 @@ export const translations = {
     'ecommerce.useCases.case12.title': 'Review Analysis',
     'ecommerce.useCases.case12.description': 'Summarizes comments into key points (quality, size, delivery) for product decisions.',
     'ecommerce.useCases.case12.impact': '-70% review reading time',
-    'ecommerce.whyUs.title': 'Why ZettaBase?',
+    'ecommerce.whyUs.title': 'Why CogniBase?',
     'ecommerce.whyUs.item1': 'Knowledge bases trained on catalogs, reviews, and store processes.',
     'ecommerce.whyUs.item2': 'Native integrations with e-commerce platforms, ERPs, CRMs, and payment gateways.',
     'ecommerce.whyUs.item3': 'Enterprise security and GDPR compliance for customer data.',
@@ -608,8 +608,8 @@ export const translations = {
     'publicAdmin.hero.title': 'AI for Public Administration',
     'publicAdmin.hero.subtitle': 'Simplify services, reduce queues, and improve citizen experience with AI trained for the Portuguese reality.',
     'publicAdmin.overview.title': 'Overview',
-    'publicAdmin.overview.description': 'Public agencies face lengthy processes, many isolated systems, and strong security requirements. ZettaBase unifies regulations, forms, and databases into an intelligent and secure repository, automating repetitive tasks and maintaining full traceability. The result: faster responses, teams focused on value decisions, and satisfied citizens.',
-    'publicAdmin.whyUs.title': 'Why ZettaBase?',
+    'publicAdmin.overview.description': 'Public agencies face lengthy processes, many isolated systems, and strong security requirements. CogniBase unifies regulations, forms, and databases into an intelligent and secure repository, automating repetitive tasks and maintaining full traceability. The result: faster responses, teams focused on value decisions, and satisfied citizens.',
+    'publicAdmin.whyUs.title': 'Why CogniBase?',
     'publicAdmin.whyUs.item1': '<strong>Custom‑Trained Intelligence</strong> - 95%+ accurate answers because the AI is trained on your own documents, rules and terminology.',
     'publicAdmin.whyUs.item2': '<strong>Enterprise‑Grade Security & Compliance</strong> - Strong encryption, strict access controls and private deployment options ensure your information stays private.',
     'publicAdmin.whyUs.item3': '<strong>Fast Integrations</strong> - Connect with your favorite tools and platforms faster.',
@@ -675,7 +675,7 @@ export const translations = {
     // Privacy Policy
     'privacy.title': 'Privacy Policy',
     'privacy.effectiveDate': 'Effective Date: April 21, 2025',
-    'privacy.intro': 'At ZettaBase, we take your privacy seriously. This Privacy Policy explains how we collect, use, and protect your personal information.',
+    'privacy.intro': 'At CogniBase, we take your privacy seriously. This Privacy Policy explains how we collect, use, and protect your personal information.',
     'privacy.section1.title': '1. Information We Collect',
     'privacy.section1.content': 'We collect only the information necessary to respond to your contact requests and improve our service. This may include:',
     'privacy.section1.item1': 'Contact details (name, email, company)',
@@ -709,20 +709,20 @@ export const translations = {
     'privacy.section7.title': '7. Changes to This Policy',
     'privacy.section7.content': 'We may update this policy periodically. Significant changes will be communicated through our website or directly to users when appropriate.',
     'privacy.section8.title': '8. Contact Us',
-    'privacy.section8.content': 'For any questions about this privacy policy or your data, please contact us at info@zettabase.ai.',
-    'privacy.footer': 'ZettaBase Ltd. is registered in Portugal.',
+    'privacy.section8.content': 'For any questions about this privacy policy or your data, please contact us at info@cognibase.tech.',
+    'privacy.footer': 'CogniBase Ltd. is registered in Portugal.',
 
     // Healthcare Page
     'footer.cookies': 'Cookie Policy',
     'footer.companyDescription': 'We create AI solutions that automate tasks, speed up decision‑making, and elevate the experience for customers and employees.',
-    'footer.rights': ' 2025 ZettaBase. All rights reserved.',
+    'footer.rights': ' 2025 CogniBase. All rights reserved.',
     
     // Terms of Service
-    'terms.title': 'ZettaBase – Terms of Service',
+    'terms.title': 'CogniBase – Terms of Service',
     'terms.effectiveDate': 'Effective date: 21 April 2025',
-    'terms.intro': 'This document explains the rules for visiting or the usage of any product or demo we publish at zettabase.ai (and sub‑domains such as zettabase‑web.pages.dev).',
+    'terms.intro': 'This document explains the rules for visiting or the usage of any product or demo we publish at cognibase.tech (and sub‑domains such as cognibase‑web.pages.dev).',
     'terms.section1.title': '1 — Who we are',
-    'terms.section1.content': 'ZettaBase is an early stage startup based in Portugal. Contact: info@zettabase.ai.',
+    'terms.section1.content': 'CogniBase is an early stage startup based in Portugal. Contact: info@cognibase.tech.',
     'terms.section2.title': '2 — What you can do',
     'terms.section2.item1': 'Browse our marketing site.',
     'terms.section2.item2': 'Try any public demo chatbots or prototypes we host.',
@@ -736,11 +736,11 @@ export const translations = {
     'terms.section4.title': '4 — Your data',
     'terms.section4.content': 'If you type something into a demo, it is sent to our servers—and to OpenAI, Anthropic or similar AI providers—to generate a response. We store logs for a short period (currently 30 days) only to monitor misuse and improve quality. Do not enter personal or sensitive information. See our Privacy Notice for details.',
     'terms.section5.title': '5 — Intellectual property',
-    'terms.section5.content': 'All software, designs and text on this site belong to ZettaBase or our licensors. You receive a non‑exclusive, revocable right to view and interact with the site for personal evaluation only.',
+    'terms.section5.content': 'All software, designs and text on this site belong to CogniBase or our licensors. You receive a non‑exclusive, revocable right to view and interact with the site for personal evaluation only.',
     'terms.section6.title': '6 — No guarantees',
     'terms.section6.content': 'The site and demos are provided "as is". Outputs may be inaccurate or inappropriate. Use them at your own risk. We give no warranties and may change or remove the service at any time.',
     'terms.section7.title': '7 — Liability',
-    'terms.section7.content': 'To the maximum extent allowed by law ZettaBase will not be liable for any indirect, incidental or consequential loss arising from your use of the site or demo outputs.',
+    'terms.section7.content': 'To the maximum extent allowed by law CogniBase will not be liable for any indirect, incidental or consequential loss arising from your use of the site or demo outputs.',
     'terms.section8.title': '8 — Termination',
     'terms.section8.content': 'We may suspend or block access to the site or demos without notice if we suspect a breach of these terms.',
     'terms.section9.title': '9 — Changes to these terms',
@@ -748,7 +748,7 @@ export const translations = {
     'terms.section10.title': '10 — Governing law',
     'terms.section10.content': 'These terms are governed by the laws of Portugal. Any disputes will be handled in the courts of Lisbon, Portugal.',
     'terms.section11.title': '11 — Contact',
-    'terms.section11.content': 'Questions? E‑mail info@zettabase.ai.',
+    'terms.section11.content': 'Questions? E‑mail info@cognibase.tech.',
     'terms.footer': '',
     
     // Modal
@@ -759,8 +759,8 @@ export const translations = {
     'modal.contact.description': 'Have questions about our solutions? Fill out the form below and we\'ll get back to you shortly.',
     'modal.expert.title': 'Talk to a Specialist',
     'modal.expert.description': 'Connect with our AI specialists who can answer your technical questions and provide tailored guidance.',
-    'modal.getStarted.title': 'Get Started with ZettaBase',
-    'modal.getStarted.description': 'Fill out the form below to begin your journey with ZettaBase.',
+    'modal.getStarted.title': 'Get Started with CogniBase',
+    'modal.getStarted.description': 'Fill out the form below to begin your journey with CogniBase.',
     'modal.default.title': 'Contact Us',
     'modal.default.description': 'We would love to hear from you. Fill out the form below and we will get back to you shortly.',
     'modal.form.name': 'Full Name',
@@ -778,7 +778,7 @@ export const translations = {
     'modal.form.expert.submit': 'Connect with an Expert',
     'modal.form.expert.messagePlaceholder': 'What would you like to discuss with our AI specialist?',
     'modal.success.title': 'Request Submitted!',
-    'modal.success.message': 'Thank you for your interest in ZettaBase. A member of our team will contact you shortly.',
+    'modal.success.message': 'Thank you for your interest in CogniBase. A member of our team will contact you shortly.',
     'modal.success.close': 'Close',
     'modal.errors.nameRequired': 'Full name is required',
     'modal.errors.emailRequired': 'Email address is required',
@@ -787,48 +787,48 @@ export const translations = {
   },
   pt: {
     // Site Metadata
-    'site.title': 'ZettaBase | Reinvente o Seu Negócio com IA Alimentada por Conhecimento',
-    'site.description': 'Transforme o seu negócio com soluções de IA da ZettaBase que aproveitam o conhecimento da sua organização para automatizar processos, obter insights e proporcionar experiências excepcionais aos clientes.',
-    'seo.landing.description': 'Transforme o seu negócio com soluções de IA da ZettaBase que aproveitam o conhecimento da sua organização para automatizar processos, obter insights e proporcionar experiências excepcionais aos clientes.',
+    'site.title': 'CogniBase | Reinvente o Seu Negócio com IA Alimentada por Conhecimento',
+    'site.description': 'Transforme o seu negócio com soluções de IA da CogniBase que aproveitam o conhecimento da sua organização para automatizar processos, obter insights e proporcionar experiências excepcionais aos clientes.',
+    'seo.landing.description': 'Transforme o seu negócio com soluções de IA da CogniBase que aproveitam o conhecimento da sua organização para automatizar processos, obter insights e proporcionar experiências excepcionais aos clientes.',
     
     // Industry Pages SEO Metadata
     // Healthcare
-    'seo.healthcare.title': 'Saúde | ZettaBase',
+    'seo.healthcare.title': 'Saúde | CogniBase',
     'seo.healthcare.description': 'Soluções de IA para saúde que melhoram o atendimento ao paciente, otimizam operações e aumentam a segurança de dados.',
     'seo.healthcare.keywords': 'IA para saúde, soluções de IA médica, IA para atendimento ao paciente, automação de saúde, segurança de dados médicos',
     
     // Finance
-    'seo.finance.title': 'Finanças | ZettaBase',
+    'seo.finance.title': 'Finanças | CogniBase',
     'seo.finance.description': 'Soluções de IA para serviços financeiros que melhoram a experiência do cliente, otimizam operações e aumentam a segurança de dados.',
     'seo.finance.keywords': 'IA para finanças, soluções de IA bancária, automação de serviços financeiros, segurança de dados financeiros, IA para finanças',
     
     // Insurance
-    'seo.insurance.title': 'Seguros | ZettaBase',
+    'seo.insurance.title': 'Seguros | CogniBase',
     'seo.insurance.description': 'Soluções de IA para seguros que melhoram a experiência do cliente, otimizam operações e aumentam a segurança de dados.',
     'seo.insurance.keywords': 'IA para seguros, automação de processamento de sinistros, segurança de dados de seguros, subscrição com IA',
     
     // Legal
-    'seo.legal.title': 'Jurídico | ZettaBase',
+    'seo.legal.title': 'Jurídico | CogniBase',
     'seo.legal.description': 'Soluções de IA para serviços jurídicos que melhoram a experiência do cliente, otimizam operações e aumentam a segurança de dados.',
     'seo.legal.keywords': 'IA jurídica, IA para escritórios de advocacia, automação de documentos jurídicos, segurança de dados jurídicos, pesquisa jurídica com IA',
     
     // Real Estate
-    'seo.real-estate.title': 'Imobiliário | ZettaBase',
+    'seo.real-estate.title': 'Imobiliário | CogniBase',
     'seo.real-estate.description': 'Soluções de IA para imobiliário que melhoram a experiência do cliente, otimizam operações e aumentam a segurança de dados.',
     'seo.real-estate.keywords': 'IA para imobiliário, IA para gestão de propriedades, automação imobiliária, segurança de dados imobiliários, IA para corretores',
     
     // E-Commerce & Retail
-    'seo.e-commerce-retail.title': 'E-Commerce & Retalho | ZettaBase',
+    'seo.e-commerce-retail.title': 'E-Commerce & Retalho | CogniBase',
     'seo.e-commerce-retail.description': 'Soluções de IA para e-commerce e retalho que melhoram a experiência do cliente, otimizam operações e aumentam a segurança de dados.',
     'seo.e-commerce-retail.keywords': 'IA para e-commerce, soluções de IA para retalho, IA para experiência do cliente, automação de retalho, segurança de dados de e-commerce',
     
     // Public Administration
-    'seo.public-administration.title': 'Administração Pública | ZettaBase',
+    'seo.public-administration.title': 'Administração Pública | CogniBase',
     'seo.public-administration.description': 'Soluções de IA para administração pública que melhoram os serviços aos cidadãos, otimizam operações e aumentam a segurança de dados.',
     'seo.public-administration.keywords': 'IA para governo, IA para setor público, automação de serviços aos cidadãos, segurança de dados governamentais, IA para administração pública',
     
     // Common Industry Benefits
-    'common.whyUs.title': 'Porquê escolher a ZettaBase?',
+    'common.whyUs.title': 'Porquê escolher a CogniBase?',
     'common.whyUs.item1': '<strong>Inteligência Treinada Personalizada</strong> - Mais de 95% de respostas precisas porque a IA é treinada nos seus próprios documentos, regras e terminologia.',
     'common.whyUs.item2': '<strong>Segurança e Privacidade</strong> - Criptografia forte, controlos de acesso rigorosos e opções de implementação privada garantem que as suas informações permaneçam privadas.',
     'common.whyUs.item3': '<strong>Integrações Rápidas</strong> – Integra-se rapidamente com as suas ferramentas e plataformas.',
@@ -836,19 +836,19 @@ export const translations = {
     
     // Chat Widget
     'chat.welcome': 'Olá, João! Bom dia! Como posso ajudar hoje?',
-    'chatwidget.welcome': 'Olá! Como posso ajudá-lo com os serviços da ZettaBase?',
+    'chatwidget.welcome': 'Olá! Como posso ajudá-lo com os serviços da CogniBase?',
     'chat.placeholder': 'Escreva a sua mensagem...',
-    'chat.assistant': 'Assistente ZettaBase',
+    'chat.assistant': 'Assistente CogniBase',
     'chat.online': 'Online',
     'chat.services': 'Dispomos de soluções de IA, concebidas para transformar a forma como trabalha e se relaciona com os seus clientes. Também desenvolvemos soluções personalizadas para as suas necessidades e requisitos organizacionais específicos.',
     'chat.pricing': 'Nossos preços variam de acordo com suas necessidades específicas. Gostaria de falar com um representante de vendas?',
     'chat.contact': 'Você pode entrar em contato com nossa equipe em contato@exemplo.com ou nos ligar em (555) 123-4567.',
     'chat.default': 'Obrigado pela sua mensagem! Há algo específico sobre as nossas soluções de IA que você gostaria de saber?',
-    'chat.assistantTitle': 'Assistente ZettaBase',
+    'chat.assistantTitle': 'Assistente CogniBase',
     'chat.servicesQuestion': 'Que serviços oferecem?',
     'chat.requestDemo': 'Agendar uma Demonstração',
     'chat.contactSales': 'Falar com um Especialista',
-    'chat.greeting': 'Olá, bom dia! Eu sou a Zetta, a assistente digital da ZettaBase. Como posso ser útil?',
+    'chat.greeting': 'Olá, bom dia! Eu sou a Zetta, a assistente digital da CogniBase. Como posso ser útil?',
     'chat.sendHint': 'Prima Enter para enviar a sua mensagem',
     'security.title': 'Segurança que Inspira Confiança',
     'security.description': 'Colaboramos com fornecedores líderes de IA e cloud que mantêm os mais elevados padrões de segurança e proteção de dados para garantir que os seus dados são tratados com o máximo cuidado.',
@@ -866,7 +866,7 @@ export const translations = {
     'chat.integrations.description': 'O nosso produto integra-se com as suas ferramentas e plataformas',
     'chat.integrations.comingSoon': 'Mais em breve',
     // Navigation
-    'nav.why': 'A ZettaBase',
+    'nav.why': 'A CogniBase',
     'nav.about': 'Sobre Nós',
     'nav.products': 'Os Nossos Produtos',
     'nav.consulting': 'Soluções Personalizadas',
@@ -877,7 +877,7 @@ export const translations = {
     'hero.title': 'Transforme o Conhecimento da sua Empresa',
     'hero.titleHighlight': 'em Ação Inteligente',
     'hero.subtitle': 'A plataforma de IA que entende o seu contexto de negócio.',
-    'hero.description': 'Liberte todo o potencial dos dados da sua empresa com as soluções de IA da ZettaBase, que convertem o seu conhecimento em inteligência operacional.',
+    'hero.description': 'Liberte todo o potencial dos dados da sua empresa com as soluções de IA da CogniBase, que convertem o seu conhecimento em inteligência operacional.',
     'hero.feature1': 'Permite que a sua equipa se concentre em tarefas de maior valor',
     'hero.feature2': 'Elimine pedidos de suporte repetitivos',
     'hero.feature3': 'Integração com os seus sistemas existentes',
@@ -886,11 +886,11 @@ export const translations = {
     'hero.ctaPrimary': 'Começar Agora',
     'hero.ctaSecondary': 'Saber Mais',
     
-    // Why ZettaBase Section
+    // Why CogniBase Section
     'why.eyebrow': 'A Nossa Diferença',
-    'why.title': 'Porquê escolher a ZettaBase?',
+    'why.title': 'Porquê escolher a CogniBase?',
     'why.subtitle': 'O que nos torna diferentes',
-    'why.description': 'Ao contrário das soluções de IA genéricas, a plataforma ZettaBase compreende o contexto, a terminologia e os processos específicos do seu negócio.',
+    'why.description': 'Ao contrário das soluções de IA genéricas, a plataforma CogniBase compreende o contexto, a terminologia e os processos específicos do seu negócio.',
 
     'why.feature1.title': 'Base de Conhecimento Unificada',
     'why.feature1.description': 'Reunimos e integramos dados de várias fontes para criar uma base de conhecimento abrangente e pesquisável.',
@@ -904,33 +904,33 @@ export const translations = {
     'why.feature3.description': 'Encriptação robusta e controlos de privacidade abrangentes mantêm os seus dados sensíveis protegidos.',
     'why.feature3.tooltip': 'Protocolos avançados de encriptação e segurança concebidos para salvaguardar a informação da sua empresa e garantir a integridade dos dados.',
 
-    'why.comparison.title': 'ZettaBase vs. IA Genérica',
-    'why.comparison.zettabase': 'ZettaBase',
+    'why.comparison.title': 'CogniBase vs. IA Genérica',
+    'why.comparison.cognibase': 'CogniBase',
     'why.comparison.generic': 'IA Genérica',
 
     'why.comparison.row1.title': 'Fonte de Conhecimento',
     'why.comparison.row1.tooltip': 'A origem dos dados que alimentam o sistema de IA.',
-    'why.comparison.row1.zettabase': 'Dados e documentos específicos da sua empresa',
+    'why.comparison.row1.cognibase': 'Dados e documentos específicos da sua empresa',
     'why.comparison.row1.generic': 'Dados genéricos da internet',
 
     'why.comparison.row2.title': 'Compreensão do Contexto',
     'why.comparison.row2.tooltip': 'Grau em que a IA compreende o significado e as relações específicas no seu domínio empresarial.',
-    'why.comparison.row2.zettabase': 'Compreensão profunda do contexto do seu negócio',
+    'why.comparison.row2.cognibase': 'Compreensão profunda do contexto do seu negócio',
     'why.comparison.row2.generic': 'Consciência de contexto limitada',
 
     'why.comparison.row3.title': 'Precisão',
     'why.comparison.row3.tooltip': 'Percentagem de consultas que recebem respostas correctas e relevantes.',
-    'why.comparison.row3.zettabase': 'Mais de 95 % de precisão em consultas específicas da sua área',
+    'why.comparison.row3.cognibase': 'Mais de 95 % de precisão em consultas específicas da sua área',
     'why.comparison.row3.generic': 'Precisão variável, sobretudo em tópicos especializados',
 
     'why.comparison.row4.title': 'Segurança',
     'why.comparison.row4.tooltip': 'Como os seus dados são protegidos e se são usados para fins além das suas necessidades.',
-    'why.comparison.row4.zettabase': 'Segurança e privacidade de dados ao nível empresarial',
+    'why.comparison.row4.cognibase': 'Segurança e privacidade de dados ao nível empresarial',
     'why.comparison.row4.generic': 'Utiliza frequentemente os seus dados para treino de modelos',
     
     // About Section
     'about.title': 'Sobre Nós',
-    'about.description': 'Na ZettaBase, capacitamos empresas com soluções inovadoras de IA. Desde a melhoria dos processos internos até ao envolvimento dos seus clientes e à entrega de implementações personalizadas de IA, a nossa plataforma utiliza bases de conhecimento personalizadas para impulsionar a eficiência, o envolvimento e o crescimento.',
+    'about.description': 'Na CogniBase, capacitamos empresas com soluções inovadoras de IA. Desde a melhoria dos processos internos até ao envolvimento dos seus clientes e à entrega de implementações personalizadas de IA, a nossa plataforma utiliza bases de conhecimento personalizadas para impulsionar a eficiência, o envolvimento e o crescimento.',
     'about.experience': 'Experiência na Indústria',
     'about.experienceDesc': 'A nossa equipa possui vasta experiência na implementação de soluções inovadoras em diversos sectores de actividade.',
     'about.innovation': 'Foco na Inovação',
@@ -1003,8 +1003,8 @@ export const translations = {
     'kb.internal.point2': 'Reduza o tempo de integração em 40% com recuperação de informação contextual',
     'kb.internal.point3': 'Segurança reforçada com controlos de acesso baseados em funções e registos de auditoria',
     'kb.internal.point4': 'Conecte-se a sistemas internos como Confluence, SharePoint e wikis personalizadas',
-    'kb.header': 'Base de Conhecimento ZettaBase',
-    'kb.poweredBy': 'Desenvolvido por ZettaBase',
+    'kb.header': 'Base de Conhecimento CogniBase',
+    'kb.poweredBy': 'Desenvolvido por CogniBase',
     'kb.loading': 'A carregar interface de chat...',
     'kb.publicMode': 'Modo Público',
     'kb.privateMode': 'Modo Privado',
@@ -1183,7 +1183,7 @@ export const translations = {
     'insurance.hero.demo': 'Agendar uma Demonstração',
     'insurance.hero.talk': 'Falar com um Especialista',
     'insurance.overview.title': 'Soluções de IA para Seguros',
-    'insurance.overview.description': 'As seguradoras enfrentam desafios únicos com processamento de sinistros, avaliação de riscos e atendimento ao cliente. As soluções de IA da ZettaBase ajudam as seguradoras a otimizar operações, reduzir fraudes e melhorar a satisfação do cliente através de sistemas inteligentes que compreendem a terminologia de seguros, detalhes de apólices e necessidades dos clientes.',
+    'insurance.overview.description': 'As seguradoras enfrentam desafios únicos com processamento de sinistros, avaliação de riscos e atendimento ao cliente. As soluções de IA da CogniBase ajudam as seguradoras a otimizar operações, reduzir fraudes e melhorar a satisfação do cliente através de sistemas inteligentes que compreendem a terminologia de seguros, detalhes de apólices e necessidades dos clientes.',
     'insurance.nextStep.title': 'Pronto para transformar seguros com IA?',
     'insurance.nextStep.description': 'Descubra como as nossas soluções de IA podem ajudar a sua seguradora a melhorar o processamento de sinistros e a experiência do cliente.',
     'insurance.nextStep.demo': 'Agendar uma Demonstração',
@@ -1236,7 +1236,7 @@ export const translations = {
     'legal.hero.demo': 'Solicitar uma Demonstração',
     'legal.hero.talk': 'Falar com um Especialista',
     'legal.overview.title': 'Soluções de IA para Serviços Jurídicos',
-    'legal.overview.description': 'Os profissionais jurídicos enfrentam desafios únicos com revisão de documentos, pesquisa jurídica e comunicação com clientes. As soluções de IA da ZettaBase ajudam escritórios de advocacia e departamentos jurídicos a otimizar operações, melhorar a precisão e aperfeiçoar o atendimento ao cliente através de sistemas inteligentes que compreendem a terminologia jurídica, precedentes e requisitos regulatórios.',
+    'legal.overview.description': 'Os profissionais jurídicos enfrentam desafios únicos com revisão de documentos, pesquisa jurídica e comunicação com clientes. As soluções de IA da CogniBase ajudam escritórios de advocacia e departamentos jurídicos a otimizar operações, melhorar a precisão e aperfeiçoar o atendimento ao cliente através de sistemas inteligentes que compreendem a terminologia jurídica, precedentes e requisitos regulatórios.',
     'legal.nextStep.title': 'Pronto para transformar serviços jurídicos com IA?',
     'legal.nextStep.description': 'Descubra como as nossas soluções de IA podem ajudar a sua equipa a melhorar a eficiência e o serviço ao cliente.',
     'legal.nextStep.demo': 'Solicitar uma Demonstração',
@@ -1286,7 +1286,7 @@ export const translations = {
     'realEstate.title': 'IA para Imobiliário',
     'realEstate.hero.subtitle': 'Melhore a gestão de propriedades, simplifique transações e melhore a experiência do cliente com soluções de IA adaptadas para profissionais do setor imobiliário.',
     'realEstate.overview.title': 'Soluções de IA para Imobiliário',
-    'realEstate.overview.description': 'Os profissionais imobiliários enfrentam desafios únicos com a gestão de propriedades, comunicação com clientes e processamento de transações. As soluções de IA da ZettaBase ajudam agências imobiliárias, gestores de propriedades e promotores a otimizar operações, melhorar a satisfação do cliente e aperfeiçoar a tomada de decisões através de sistemas inteligentes que compreendem dados imobiliários, tendências de mercado e necessidades dos clientes.',
+    'realEstate.overview.description': 'Os profissionais imobiliários enfrentam desafios únicos com a gestão de propriedades, comunicação com clientes e processamento de transações. As soluções de IA da CogniBase ajudam agências imobiliárias, gestores de propriedades e promotores a otimizar operações, melhorar a satisfação do cliente e aperfeiçoar a tomada de decisões através de sistemas inteligentes que compreendem dados imobiliários, tendências de mercado e necessidades dos clientes.',
     'realEstate.cta.title': 'Pronto para transformar o setor imobiliário com IA?',
     'realEstate.cta.description': 'Descubra como as nossas soluções de IA podem ajudar o seu negócio imobiliário a melhorar a experiência do cliente e a eficiência operacional.',
     'realEstate.useCases.title': 'Casos de Uso Imobiliário',
@@ -1340,8 +1340,8 @@ export const translations = {
     'publicAdmin.hero.title': 'IA para Administração Pública',
     'publicAdmin.hero.subtitle': 'Descomplique serviços, reduza filas de espera e melhore a experiência do cidadão com IA treinada para a realidade portuguesa.',
     'publicAdmin.overview.title': 'Soluções de IA para Administração Pública',
-    'publicAdmin.overview.description': 'Os organismos públicos enfrentam processos morosos, muitos sistemas isolados e fortes exigências de segurança. A ZettaBase unifica regulamentos, formulários e bases de dados num repositório inteligente e seguro, automatizando tarefas repetitivas e mantendo total rastreabilidade. O resultado: respostas mais rápidas, equipas focadas em decisões de maior valor e cidadãos satisfeitos.',
-    'publicAdmin.whyUs.title': 'Porquê a ZettaBase?',
+    'publicAdmin.overview.description': 'Os organismos públicos enfrentam processos morosos, muitos sistemas isolados e fortes exigências de segurança. A CogniBase unifica regulamentos, formulários e bases de dados num repositório inteligente e seguro, automatizando tarefas repetitivas e mantendo total rastreabilidade. O resultado: respostas mais rápidas, equipas focadas em decisões de maior valor e cidadãos satisfeitos.',
+    'publicAdmin.whyUs.title': 'Porquê a CogniBase?',
     'publicAdmin.whyUs.item1': 'Bases de conhecimento treinadas em terminologia pública portuguesa.',
     'publicAdmin.whyUs.item2': 'Segurança avançada e controlo de acessos de nível governamental.',
     'publicAdmin.whyUs.item3': 'Integração com soluções Sharepoint, Google Workspace, Office 365 e sistemas de gestão documental.',
@@ -1406,14 +1406,14 @@ export const translations = {
     'footer.terms': 'Termos de Serviço',
     'footer.cookies': 'Política de Cookies',
     'footer.companyDescription': 'Criamos soluções de IA que automatizam tarefas, aceleram decisões e elevam a experiência de clientes e colaboradores.',
-    'footer.rights': ' 2025 ZettaBase. Todos os direitos reservados.',
+    'footer.rights': ' 2025 CogniBase. Todos os direitos reservados.',
     
     // Terms of Service
-    'terms.title': 'ZettaBase – Termos de Serviço',
+    'terms.title': 'CogniBase – Termos de Serviço',
     'terms.effectiveDate': 'Data efetiva: 21 de abril de 2025',
-    'terms.intro': 'Este breve documento explica as regras básicas para visitar ou testar qualquer conteúdo que publicamos em zettabase.ai.',
+    'terms.intro': 'Este breve documento explica as regras básicas para visitar ou testar qualquer conteúdo que publicamos em cognibase.tech.',
     'terms.section1.title': '1 — Quem somos',
-    'terms.section1.content': 'ZettaBase Lda. ("ZettaBase", "nós", "nosso") é uma startup registada em Portugal. Contacto: info@zettabase.ai.',
+    'terms.section1.content': 'CogniBase Lda. ("CogniBase", "nós", "nosso") é uma startup registada em Portugal. Contacto: info@cognibase.tech.',
     'terms.section2.title': '2 — O que pode fazer',
     'terms.section2.item1': 'Navegar no nosso site de marketing.',
     'terms.section2.item2': 'Experimentar quaisquer chatbots de demonstração pública ou protótipos que disponibilizamos.',
@@ -1427,11 +1427,11 @@ export const translations = {
     'terms.section4.title': '4 — Os seus dados',
     'terms.section4.content': 'Se escrever algo numa demonstração, isso é enviado para os nossos servidores—e para a OpenAI, Anthropic ou fornecedores de IA semelhantes—para gerar uma resposta. Armazenamos registos por um curto período (atualmente 30 dias) apenas para monitorizar o uso indevido e melhorar a qualidade. Não insira informações pessoais ou sensíveis. Consulte a nossa Política de Privacidade para mais detalhes.',
     'terms.section5.title': '5 — Propriedade intelectual',
-    'terms.section5.content': 'Todo o software, designs e texto neste site pertencem à ZettaBase ou aos nossos licenciadores. Você recebe um direito não exclusivo e revogável de visualizar e interagir com o site apenas para avaliação pessoal.',
+    'terms.section5.content': 'Todo o software, designs e texto neste site pertencem à CogniBase ou aos nossos licenciadores. Você recebe um direito não exclusivo e revogável de visualizar e interagir com o site apenas para avaliação pessoal.',
     'terms.section6.title': '6 — Sem garantias',
     'terms.section6.content': 'O site e as demonstrações são fornecidos "tal como estão". Os resultados podem ser imprecisos ou inadequados. Use-os por sua conta e risco. Não oferecemos garantias e podemos alterar ou remover o serviço a qualquer momento.',
     'terms.section7.title': '7 — Responsabilidade',
-    'terms.section7.content': 'Na máxima extensão permitida por lei, a ZettaBase não será responsável por qualquer perda indireta, acidental ou consequencial decorrente do seu uso do site ou dos resultados das demonstrações.',
+    'terms.section7.content': 'Na máxima extensão permitida por lei, a CogniBase não será responsável por qualquer perda indireta, acidental ou consequencial decorrente do seu uso do site ou dos resultados das demonstrações.',
     'terms.section8.title': '8 — Rescisão',
     'terms.section8.content': 'Podemos suspender ou bloquear o acesso ao site ou às demonstrações sem aviso prévio se suspeitarmos de uma violação destes termos.',
     'terms.section9.title': '9 — Alterações a estes termos',
@@ -1439,7 +1439,7 @@ export const translations = {
     'terms.section10.title': '10 — Lei aplicável',
     'terms.section10.content': 'Estes termos são regidos pelas leis de Portugal. Quaisquer disputas serão tratadas nos tribunais de Lisboa, Portugal.',
     'terms.section11.title': '11 — Contacto',
-    'terms.section11.content': 'Perguntas? Envie um e-mail para info@zettabase.ai.',
+    'terms.section11.content': 'Perguntas? Envie um e-mail para info@cognibase.tech.',
     'terms.footer': '',
     
     // Modal
@@ -1450,8 +1450,8 @@ export const translations = {
     'modal.contact.description': 'Tem perguntas sobre as nossas soluções? Preencha o formulário abaixo e entraremos em contato com a maior brevidade possível.',
     'modal.expert.title': 'Fale com um Especialista',
     'modal.expert.description': 'Fale com os nossos especialistas em IA que podem responder às suas questões técnicas e fornecer orientação personalizada.',
-    'modal.getStarted.title': 'Comece com a ZettaBase',
-    'modal.getStarted.description': 'Preencha o formulário abaixo para iniciar sua jornada com a ZettaBase.',
+    'modal.getStarted.title': 'Comece com a CogniBase',
+    'modal.getStarted.description': 'Preencha o formulário abaixo para iniciar sua jornada com a CogniBase.',
     'modal.default.title': 'Entre em Contato',
     'modal.default.description': 'Gostaríamos de ouvir de você. Preencha o formulário abaixo e entraremos em contato com a maior brevidade possível.',
     'modal.form.name': 'Nome',
@@ -1469,7 +1469,7 @@ export const translations = {
     'modal.form.expert.submit': 'Conectar com um Especialista',
     'modal.form.expert.messagePlaceholder': 'O que gostaria de discutir com o nosso especialista em IA?',
     'modal.success.title': 'Solicitação Enviada!',
-    'modal.success.message': 'Obrigado pelo seu interesse na ZettaBase. Um membro da nossa equipa entrará em contato em breve.',
+    'modal.success.message': 'Obrigado pelo seu interesse na CogniBase. Um membro da nossa equipa entrará em contato em breve.',
     'modal.success.close': 'Fechar',
     'modal.errors.nameRequired': 'O nome é obrigatório',
     'modal.errors.emailRequired': 'O endereço de email é obrigatório',
@@ -1521,7 +1521,7 @@ export const translations = {
     'ecommerce.useCases.case12.title': 'Análise de Avaliações',
     'ecommerce.useCases.case12.description': 'Resume comentários em pontos‑chave (qualidade, tamanho, entrega) para decisões de produto.',
     'ecommerce.useCases.case12.impact': '‑70 % tempo de leitura de análises',
-    'ecommerce.whyUs.title': 'Porquê a ZettaBase?',
+    'ecommerce.whyUs.title': 'Porquê a CogniBase?',
     'ecommerce.whyUs.item1': 'Bases de conhecimento treinadas em catálogos, avaliações e processos de loja.',
     'ecommerce.whyUs.item2': 'Integrações nativas com plataformas de e‑commerce, ERPs, CRMs e gateways de pagamento.',
     'ecommerce.whyUs.item3': 'Segurança empresarial e conformidade RGPD para dados de clientes.',
@@ -1533,7 +1533,7 @@ export const translations = {
     // Privacy Policy
     'privacy.title': 'Política de Privacidade',
     'privacy.effectiveDate': 'Data efetiva: 21 de abril de 2025',
-    'privacy.intro': 'Na ZettaBase, levamos a sua privacidade a sério. Esta Política de Privacidade explica como recolhemos, utilizamos e protegemos as suas informações pessoais.',
+    'privacy.intro': 'Na CogniBase, levamos a sua privacidade a sério. Esta Política de Privacidade explica como recolhemos, utilizamos e protegemos as suas informações pessoais.',
     'privacy.section1.title': '1. Informações que Recolhemos',
     'privacy.section1.content': 'Recolhemos apenas as informações necessárias para responder às suas solicitações de contato e melhoria do serviço. Isto pode incluir:',
     'privacy.section1.item1': 'Detalhes de contacto (Nome, email, empresa)',
@@ -1567,8 +1567,8 @@ export const translations = {
     'privacy.section7.title': '7. Alterações a Esta Política',
     'privacy.section7.content': 'Podemos atualizar esta política periodicamente. Alterações significativas serão comunicadas através do nosso site ou diretamente aos utilizadores quando apropriado.',
     'privacy.section8.title': '8. Contacte-nos',
-    'privacy.section8.content': 'Para quaisquer questões sobre esta política de privacidade ou os seus dados, por favor contacte-nos em info@zettabase.ai.',
-    'privacy.footer': 'ZettaBase Lda. está registada em Portugal.'
+    'privacy.section8.content': 'Para quaisquer questões sobre esta política de privacidade ou os seus dados, por favor contacte-nos em info@cognibase.tech.',
+    'privacy.footer': 'CogniBase Lda. está registada em Portugal.'
   }
 };
 
@@ -1632,12 +1632,12 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
       const hash = window.location.hash;
       if (hash === '#pt') {
         setLanguageState('pt');
-        localStorage.setItem('zettabase-language', 'pt');
+        localStorage.setItem('cognibase-language', 'pt');
       } else if (hash === '#en') {
         setLanguageState('en');
-        localStorage.setItem('zettabase-language', 'en');
+        localStorage.setItem('cognibase-language', 'en');
       } else {
-        const savedLanguage = localStorage.getItem('zettabase-language');
+        const savedLanguage = localStorage.getItem('cognibase-language');
         if (savedLanguage === 'en' || savedLanguage === 'pt') {
           setLanguageState(savedLanguage);
         } else {
@@ -1661,7 +1661,7 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
   // Custom setLanguage function that also updates localStorage
   const setLanguage = (lang: Language) => {
     setLanguageState(lang);
-    localStorage.setItem('zettabase-language', lang);
+    localStorage.setItem('cognibase-language', lang);
   };
 
   // Translation function

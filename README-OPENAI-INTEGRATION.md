@@ -1,6 +1,6 @@
-# OpenAI Assistants API Integration for ZettaBase
+# OpenAI Assistants API Integration for CogniBase
 
-This document explains how to set up and use the OpenAI Assistants API integration with the ZettaBase chat widget.
+This document explains how to set up and use the OpenAI Assistants API integration with the CogniBase chat widget.
 
 ## Setup Instructions
 
@@ -36,7 +36,7 @@ The integration consists of several components:
 You can customize the assistant's behavior by modifying the instructions in `/app/api/assistants/route.ts`. The current instructions are:
 
 ```javascript
-instructions: 'You are ZettaBase\'s AI assistant. Help users understand ZettaBase\'s AI solutions and services. Be friendly, professional, and provide accurate information about ZettaBase\'s offerings.'
+instructions: 'You are CogniBase\'s AI assistant. Help users understand CogniBase\'s AI solutions and services. Be friendly, professional, and provide accurate information about CogniBase\'s offerings.'
 ```
 
 ## Function Calling

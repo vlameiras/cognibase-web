@@ -127,7 +127,7 @@ export default function KnowledgeBaseChat({ isPublic = true }: { isPublic?: bool
             </div>
             <div>
               <h3 className="font-medium text-white">Knowledge Base Chat</h3>
-              <p className="text-xs text-slate-400">Powered by ZettaBase</p>
+              <p className="text-xs text-slate-400">Powered by CogniBase</p>
             </div>
           </div>
         </div>

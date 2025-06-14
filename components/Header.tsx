@@ -22,8 +22,8 @@ export default function Header() {
     <nav className="container mx-auto py-6 px-4 flex justify-between items-center sticky top-0 z-50 bg-slate-900/80 backdrop-blur-md border-b border-slate-800/50">
       <div className="flex items-center gap-2">
         <Link href="/" className="flex items-center space-x-3">
-          <Image src="/logo_transparent.png" alt="ZettaBase Logo" width={48} height={48} className="h-12 w-auto" />
-          <span className="text-[#0078FF] text-xl font-semibold">ZettaBase</span>
+          <Image src="/logo_transparent.png" alt="CogniBase Logo" width={48} height={48} className="h-12 w-auto" />
+          <span className="text-[#0078FF] text-xl font-semibold">CogniBase</span>
         </Link>
       </div>
       

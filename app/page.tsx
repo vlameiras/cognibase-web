@@ -77,7 +77,7 @@ export default function AIAgencyLanding() {
         </div>
       </section>
 
-      {/* Why ZettaBase Section */}
+      {/* Why CogniBase Section */}
       <section id="why" className="container mx-auto px-4 py-20 md:py-32 bg-gradient-to-b from-slate-950 to-slate-900 rounded-3xl my-12 relative overflow-hidden">
         <FadeIn>
           <div className="absolute top-0 right-0 w-96 h-96 bg-blue-500/5 rounded-full blur-3xl"></div>
@@ -141,7 +141,7 @@ export default function AIAgencyLanding() {
                 <div className="p-5 font-bold text-blue-300 text-center text-lg">
                   <div className="flex items-center justify-center gap-2">
                     <span className="w-3 h-3 bg-blue-400 rounded-full"></span>
-                    {t('why.comparison.zettabase')}
+                    {t('why.comparison.cognibase')}
                   </div>
                 </div>
                 <div className="p-5 font-medium text-center text-lg">
@@ -163,7 +163,7 @@ export default function AIAgencyLanding() {
                   <div className="p-5 border-l border-slate-700/50 bg-blue-900/5 relative">
                     <div className="flex items-center gap-2">
                       <span className="text-blue-400 absolute left-2">✓</span>
-                      <span className="ml-4">{t('why.comparison.row1.zettabase')}</span>
+                      <span className="ml-4">{t('why.comparison.row1.cognibase')}</span>
                     </div>
                   </div>
                   <div className="p-5 border-l border-slate-700/50 text-slate-300">
@@ -183,7 +183,7 @@ export default function AIAgencyLanding() {
                   <div className="p-5 border-l border-slate-700/50 bg-blue-900/5 relative">
                     <div className="flex items-center gap-2">
                       <span className="text-blue-400 absolute left-2">✓</span>
-                      <span className="ml-4">{t('why.comparison.row2.zettabase')}</span>
+                      <span className="ml-4">{t('why.comparison.row2.cognibase')}</span>
                     </div>
                   </div>
                   <div className="p-5 border-l border-slate-700/50 text-slate-300">
@@ -203,7 +203,7 @@ export default function AIAgencyLanding() {
                   <div className="p-5 border-l border-slate-700/50 bg-blue-900/5 relative">
                     <div className="flex items-center gap-2">
                       <span className="text-blue-400 absolute left-2">✓</span>
-                      <span className="ml-4">{t('why.comparison.row3.zettabase')}</span>
+                      <span className="ml-4">{t('why.comparison.row3.cognibase')}</span>
                     </div>
                   </div>
                   <div className="p-5 border-l border-slate-700/50 text-slate-300">
@@ -223,7 +223,7 @@ export default function AIAgencyLanding() {
                   <div className="p-5 border-l border-slate-700/50 bg-blue-900/5 relative">
                     <div className="flex items-center gap-2">
                       <span className="text-blue-400 absolute left-2">✓</span>
-                      <span className="ml-4">{t('why.comparison.row4.zettabase')}</span>
+                      <span className="ml-4">{t('why.comparison.row4.cognibase')}</span>
                     </div>
                   </div>
                   <div className="p-5 border-l border-slate-700/50 text-slate-300">
