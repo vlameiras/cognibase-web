@@ -39,3 +39,4 @@ For the regular OpenAI API, you can specify any available model in the `OPENAI_M
 ## System Prompt
 
 When using the regular OpenAI API, you can customize the system prompt by setting the `SYSTEM_PROMPT` environment variable. This defines the initial instructions given to the model.
+ 
