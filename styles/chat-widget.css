@@ -1,0 +1,118 @@
+/* Chat Widget Styles */
+
+/* Ensure proper line breaks in markdown content */
+.markdown-content {
+  white-space: normal;
+}
+
+/* Style paragraphs in markdown content */
+.markdown-content p {
+  margin-bottom: 0.75rem;
+}
+
+/* Style lists in markdown content */
+.markdown-content ul, 
+.markdown-content ol {
+  margin-bottom: 0.75rem;
+  padding-left: 1.5rem;
+}
+
+.markdown-content ul {
+  list-style-type: disc;
+}
+
+.markdown-content ol {
+  list-style-type: decimal;
+}
+
+.markdown-content li {
+  margin-bottom: 0.25rem;
+}
+
+/* Style headings in markdown content */
+.markdown-content h1,
+.markdown-content h2,
+.markdown-content h3,
+.markdown-content h4 {
+  font-weight: bold;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.markdown-content h1 {
+  font-size: 1.25rem;
+}
+
+.markdown-content h2 {
+  font-size: 1.125rem;
+}
+
+.markdown-content h3 {
+  font-size: 1rem;
+}
+
+/* Style links in markdown content */
+.markdown-content a {
+  color: #60a5fa;
+  text-decoration: none;
+}
+
+.markdown-content a:hover {
+  text-decoration: underline;
+}
+
+/* Style code blocks in markdown content */
+.markdown-content code {
+  background-color: rgba(30, 41, 59, 0.8);
+  padding: 0.125rem 0.25rem;
+  border-radius: 0.25rem;
+  font-size: 0.875rem;
+}
+
+.markdown-content pre {
+  background-color: rgba(30, 41, 59, 0.8);
+  padding: 0.75rem;
+  border-radius: 0.25rem;
+  overflow-x: auto;
+  margin: 0.75rem 0;
+}
+
+.markdown-content pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+/* Style blockquotes in markdown content */
+.markdown-content blockquote {
+  border-left: 3px solid #4b5563;
+  padding-left: 0.75rem;
+  margin-left: 0;
+  margin-right: 0;
+  font-style: italic;
+  color: #9ca3af;
+}
+
+/* Style tables in markdown content */
+.markdown-content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0.75rem 0;
+}
+
+.markdown-content th,
+.markdown-content td {
+  border: 1px solid #4b5563;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.markdown-content th {
+  background-color: rgba(30, 41, 59, 0.8);
+}
+
+/* Style horizontal rules in markdown content */
+.markdown-content hr {
+  border: 0;
+  border-top: 1px solid #4b5563;
+  margin: 1rem 0;
+}
